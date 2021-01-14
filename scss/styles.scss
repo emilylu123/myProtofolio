@@ -1,6 +1,6 @@
 /*!
-    Title: Dev Portfolio Template
-    Version: 1.2.2
+    Title: Dev Portfolio
+    Version: 1.0
     Last Change: 03/25/2020
     Author: Ryan Fitzgerald
     Repo: https://github.com/RyanFitzgerald/devportfolio-template
@@ -348,7 +348,7 @@ footer {
 #lead {
     position: relative;
     height: 100vh;
-    min-height: 500px;
+    min-height: 800px;
     max-height: 1080px;
     background: url(../images/lead-bg.jpg);
     background-size: cover;
@@ -455,7 +455,7 @@ footer {
 
     p {
         color: $text;
-        margin: 0;
+        margin: 1;
     }
 }
 
