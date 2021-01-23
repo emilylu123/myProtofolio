@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="995a3ba1-d56f-4bcb-9168-8996d06aba16" name="Default Changelist" comment="update about me" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1kXxtJbChL2r9WUxBp2tVc6rYeb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="995a3ba1-d56f-4bcb-9168-8996d06aba16" name="Default Changelist" comment="" />
+      <created>1605860951399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605860951399</updated>
+      <workItem from="1605860953120" duration="4311000" />
+      <workItem from="1605878281511" duration="2157000" />
+      <workItem from="1605918125692" duration="1096000" />
+      <workItem from="1605937675430" duration="158000" />
+      <workItem from="1610258159202" duration="9257000" />
+      <workItem from="1610283021429" duration="1952000" />
+      <workItem from="1610285343565" duration="5148000" />
+      <workItem from="1610290697152" duration="129000" />
+      <workItem from="1610326609313" duration="928000" />
+      <workItem from="1610327636756" duration="704000" />
+      <workItem from="1610536801019" duration="7188000" />
+      <workItem from="1610544979477" duration="2869000" />
+      <workItem from="1610593241598" duration="18000" />
+      <workItem from="1610593262691" duration="174000" />
+      <workItem from="1610593564875" duration="270000" />
+      <workItem from="1610593903422" duration="296000" />
+      <workItem from="1610633763346" duration="1219000" />
+      <workItem from="1610676127391" duration="19000" />
+    </task>
+    <task id="LOCAL-00001" summary="modify">
+      <created>1605861437691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605861437691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modify content">
+      <created>1605878256344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605878256344</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update about me content; add font awesome icons">
+      <created>1610285394096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610285394096</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add download resume pdf; send email with formspree">
+      <created>1610290814229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610290814229</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modify mobile responsive design">
+      <created>1610633797651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610633797651</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update about me">
+      <created>1610635521741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610635521741</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="modify" />
+    <MESSAGE value="modify content" />
+    <MESSAGE value="update about me content; add font awesome icons" />
+    <MESSAGE value="add download resume pdf; send email with formspree" />
+    <MESSAGE value="modify mobile responsive design" />
+    <MESSAGE value="update about me" />
+    <option name="LAST_COMMIT_MESSAGE" value="update about me" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="474" y="25" width="802" height="875" key="#HTML" timestamp="1610545494221">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="474" y="25" width="802" height="875" key="#HTML/0.25.1440.875@0.25.1440.875" timestamp="1610545494221" />
+    <state x="375" y="245" key="EditFileWatcherDialog" timestamp="1605875827556">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="375" y="245" key="EditFileWatcherDialog/0.25.1440.875/1440.112.1280.695@0.25.1440.875" timestamp="1605875827556" />
+    <state width="1021" height="156" key="GridCell.Tab.0.bottom" timestamp="1610544314206">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="169" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610270010899" />
+    <state width="1419" height="157" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.112.1280.695@0.25.1440.875" timestamp="1605878262953" />
+    <state width="1259" height="114" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.112.1280.695@1440.112.1280.695" timestamp="1605940161028" />
+    <state width="1021" height="156" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610544314206" />
+    <state width="1021" height="156" key="GridCell.Tab.0.center" timestamp="1610544314204">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="169" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610270010897" />
+    <state width="1419" height="157" key="GridCell.Tab.0.center/0.25.1440.875/1440.112.1280.695@0.25.1440.875" timestamp="1605878262952" />
+    <state width="1259" height="114" key="GridCell.Tab.0.center/0.25.1440.875/1440.112.1280.695@1440.112.1280.695" timestamp="1605940161026" />
+    <state width="1021" height="156" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610544314204" />
+    <state width="1021" height="156" key="GridCell.Tab.0.left" timestamp="1610544314203">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="169" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610270010894" />
+    <state width="1419" height="157" key="GridCell.Tab.0.left/0.25.1440.875/1440.112.1280.695@0.25.1440.875" timestamp="1605878262951" />
+    <state width="1259" height="114" key="GridCell.Tab.0.left/0.25.1440.875/1440.112.1280.695@1440.112.1280.695" timestamp="1605940161026" />
+    <state width="1021" height="156" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610544314203" />
+    <state width="1021" height="156" key="GridCell.Tab.0.right" timestamp="1610544314205">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="169" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610270010898" />
+    <state width="1419" height="157" key="GridCell.Tab.0.right/0.25.1440.875/1440.112.1280.695@0.25.1440.875" timestamp="1605878262953" />
+    <state width="1259" height="114" key="GridCell.Tab.0.right/0.25.1440.875/1440.112.1280.695@1440.112.1280.695" timestamp="1605940161027" />
+    <state width="1021" height="156" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610544314205" />
+    <state x="229" y="109" key="SettingsEditor" timestamp="1610545116665">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1610262409313" />
+    <state x="229" y="109" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1610545116665" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1610635525841">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.112.1280.695@0.25.1440.875" timestamp="1605878259685" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1610290816751" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1610635525841" />
+    <state x="486" y="200" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1610285453182">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="486" y="200" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.25.1440.875/1440.25.1920.1055@0.25.1440.875" timestamp="1610285453182" />
+  </component>
+</project>
