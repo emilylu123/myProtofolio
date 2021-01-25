@@ -25,21 +25,23 @@ body.active {
   border: 1px solid #dcd9d9;
 }
 .no-js #experience-timeline > div h3 {
-  font-size: 1.5em;
+  font-size: 0.7em;
   font-weight: 300;
   color: #374054;
+  margin: 20px 0px 20px 10px;
   display: inline-block;
   margin: 0;
 }
 .no-js #experience-timeline > div h4 {
-  font-size: 1.2em;
+  font-size: 0.5em;
   font-weight: 300;
   color: #7e8890;
-  margin: 0 0 15px 0;
+  margin: 20px 0px 20px 10px;
 }
 .no-js #experience-timeline > div p {
   color: #74808a;
-  font-size: 0.9em;
+  font-size: 0.7em;
+  font-weight: 150;
   margin: 0;
 }
 .no-js #experience-timeline:before,
@@ -134,7 +136,7 @@ header.sticky {
 #mobile-menu-close i {
   vertical-align: middle;
 }
-a{
+a {
   text-decoration: none;
 }
 footer {
@@ -315,7 +317,7 @@ footer {
 }
 #about p {
   color: #74808a;
-  margin: 0;
+  margin: 10px 10px 15px 20px;
 }
 #experience {
   padding: 50px 15px;
@@ -361,14 +363,14 @@ footer {
   text-align: left;
 }
 .vtimeline-content h3 {
-  font-size: 1.5em;
+  /* font-size: 1.5em; */
   font-weight: 300;
   color: #374054;
   display: inline-block;
   margin: 0;
 }
 .vtimeline-content h4 {
-  font-size: 1.2em;
+  /* font-size: 1.2em; */
   font-weight: 300;
   color: #7e8890;
   margin: 0 0 15px 0;
@@ -426,9 +428,10 @@ footer {
   text-align: left;
 }
 .education-block h3 {
-  font-weight: 500;
+  font-weight: 400;
   float: left;
-  margin: 0;
+  font-size: 1.2em;
+  margin: 0 0 15px 0;
   color: #374054;
 }
 .education-block span {
@@ -438,14 +441,16 @@ footer {
 .education-block h4 {
   color: #74808a;
   clear: both;
-  font-weight: 500;
-  margin: 0 0 15px 0;
+  font-size: 1em;
+  font-weight: 400;
+  margin: 0px 0px 6px 10px;
 }
 .education-block p,
 .education-block ul {
   margin: 0;
   color: #74808a;
-  font-size: 0.9em;
+  font-size: 0.8em;
+  font-weight: 200;
 }
 .education-block ul {
   padding: 0 0 0 15px;
@@ -474,7 +479,7 @@ footer {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  margin-left: 300px;
+  margin-left: 350px;
   padding: 15px;
 }
 .project-info h3 {
@@ -485,8 +490,10 @@ footer {
 }
 .project-info p {
   color: #74808a;
-  margin: 0 0 15px 0;
+  margin: 0 0 12px 0;
   font-size: 0.9em;
+  text-align: left;
+  font-weight: 200;
 }
 .no-image .project-info {
   position: relative;
